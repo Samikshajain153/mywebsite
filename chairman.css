@@ -1,0 +1,504 @@
+.wrapper{
+    margin: 0px;
+    padding: 0px;
+  /*  background-image: url("https://ak8.picdn.net/shutterstock/videos/25103048/thumb/1.jpg?ip=x480");*/
+}
+.top{
+    
+    margin:-10px;
+        padding: 0px;
+        border: 0px solid black;
+        border-radius: 3px;
+        height: 80px;
+        width: 100%;
+        background-color: black;
+        position: fixed;
+    z-index: 2000;
+        cursor: pointer;
+      
+    }
+    #w span:hover{
+       color: peru;
+    }
+    .found span:hover{
+color: peru;
+    }
+
+    .reservations{
+    
+    height: 38px;
+    width: 148px;
+    background-color:rgb(244, 180, 96);
+    border-radius: 6px;
+position: fixed;
+    margin-left: 1260px;
+margin-top:20px; 
+opacity: 0.8;
+    }
+    .reservations:hover{
+       opacity: 1;
+    }
+    
+    .r{
+        color: white;
+    padding: 10px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size:14px ;
+    font-weight: bolder;
+    }
+.r span:hover{
+        color:grey;
+    }
+
+ #horizontal-line{
+        margin-left:1208px ;
+        margin-top: 35px;
+
+       
+   }
+ #c{
+    margin-left: -215px;
+    font-size:16px;
+    position: fixed;
+margin-top: 33px;
+    font-family: sans-serif;
+    color:peru;
+}
+
+
+#w{
+    margin-left: -470px;
+    font-size:16px;
+    margin-top: -40px;
+    font-family: sans-serif;
+    color:white;
+}
+
+
+
+#option3{
+    margin-left: -350px;
+    font-size:16px;
+    margin-top: -40px;
+z-index: 1000;
+    font-family: sans-serif;
+    color: white;
+}
+#option3:hover{
+    color: peru;
+}
+#option3 span{
+color:rgb(244, 192, 96);;
+margin-left: 5px;
+}
+
+.logo{
+    margin-left: 120px;
+    margin-top: -65px;
+}
+.resorta{
+    border:1px solid black;
+    height: 335px;
+    width:270px;
+   background-color:rgba(0, 0, 0, 0.76);
+border-radius: 3px;
+   padding:10px;
+   margin-left: 580px;
+position: fixed;
+margin-top: 80px;
+z-index: 1000;
+}
+.corbett{
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+     margin-top:13px; 
+     margin-left: 10px;
+}
+.infinity{
+color:rgb(244, 192, 96);
+font-family: sans-serif;
+font-size: 15px;
+margin-left: 37px;
+}
+.kutcha{
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+     margin-top:13px; 
+     margin-left: 10px;
+
+}
+.kutch{
+    color:rgb(244, 192, 96);
+font-family: sans-serif;
+font-size: 15px;
+margin-left: 37px;
+}
+.kaziranga{
+    color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+     margin-top:13px; 
+     margin-left: 10px;
+}
+.i{
+    color:rgb(244, 192, 96);
+font-family: sans-serif;
+font-size: 15px;
+margin-left: 37px;
+}
+
+.box1{
+margin-left: -10px;
+    width: 100%;
+    height: 100px;
+    background-color: blanchedalmond;
+   
+    border:1px solid burlywood;
+    position:absolute;
+    margin-top: 70px;
+    
+}
+
+.box11{
+    font-family: sans-serif;
+    color:brown;
+    font-size: 14px;
+    margin-top: 40px;
+    margin-left: 710px;
+}
+.box2{
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+margin-top: 100px;
+position: absolute;
+margin-left: 620px;  
+}
+.content{
+    
+    font-size: 18px;
+    color: grey;
+    line-height: 35px;
+margin-left: 50px;
+margin-top: 240px;
+}
+.img{
+    margin-top: -350px;
+    margin-left: 800px;
+}
+.content1{
+    color: rgba(0, 0, 0, 0.788);
+    font-size: 18px;
+    line-height:30px ;
+    margin-left: 70px;
+    margin-top: 100px;
+    margin-right:70px ;
+    
+}
+.content2{
+    color: rgba(0, 0, 0, 0.788);
+    font-size: 18px;
+    line-height:30px ;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right:70px ;
+    
+}
+.content3{
+    color: rgba(0, 0, 0, 0.788);
+    font-size: 18px;
+    line-height:30px ;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right:70px ;
+    
+}
+.content4{
+    color: rgba(0, 0, 0, 0.788);
+    font-size: 18px;
+    line-height:30px ;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right:70px ;
+    
+}
+.content5{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    line-height:30px ;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right:70px ;
+    
+}
+.box3{
+    
+        width: 100%;
+        height: 80px;
+        background-color: blanchedalmond;
+    
+        border:0px solid burlywood;
+        position:absolute;
+        margin-top: 200px;
+        
+    }
+    
+ .lastbox{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 280px;
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    padding-bottom: 50px;
+    position: absolute;
+    margin-left: -10px;
+    
+}
+.l1{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 16px; 
+   margin-top: 30px; 
+}
+.l2{
+   
+       height: 30px;
+       width: 220px;
+       border:0px solid black;
+       margin-left: 200px;
+       margin-top: 25px;
+   
+}
+.l21{
+   margin-left: -188px;
+}
+.l22{
+   margin-top: -20px;
+   margin-left: 8px;
+   font-family: sans-serif;
+   color:peru;
+   font-weight: lighter;
+   font-size: 13px;
+}
+.l3{
+   
+   height: 30px;
+   width: 220px;
+   border:0px solid black;
+   margin-left: 480px;
+   margin-top: -29px;
+
+}
+.l31{
+margin-left: -188px;
+}
+.l32{
+margin-top: -20px;
+margin-left: 8px;
+font-family: sans-serif;
+color:peru;
+font-weight: lighter;
+font-size: 13px;
+}
+.l4{
+   height: 30px;
+   width: 220px;
+   border:0px solid black;
+margin-left: 760px;
+margin-top: -29px;
+
+}
+.l41{
+   margin-left: -200px;
+}
+.l42
+{
+   font-family: sans-serif;
+   color:peru;
+   font-weight: lighter;
+   margin-left: -70px;
+   font-size: 13px;
+   margin-top: -20px;
+}
+.l43{
+   border-left: 2px solid peru;
+   height: 15px;
+   margin-left: 130px;
+   margin-top: -16px;
+}
+.l44{
+   font-family: sans-serif;
+   color:peru;
+   font-weight: lighter;
+   font-size: 13px;
+   margin-left: 127px;
+   margin-top: -14px;
+}
+.l5{
+   height: 30px;
+   width: 220px;
+   border:0px solid black;
+margin-left: 1060px;
+margin-top: -29px;
+
+}
+.l51{
+   margin-left: -200px;
+}
+.l52
+{
+   font-family: sans-serif;
+   color:peru;
+   font-weight: lighter;
+   margin-left: -70px;
+   font-size: 13px;
+   margin-top: -20px;
+}
+.l53{
+   border-left: 2px solid peru;
+   height: 15px;
+   margin-left: 130px;
+   margin-top: -16px;
+}
+.l54{
+   font-family: sans-serif;
+   color:peru;
+   font-weight: lighter;
+   font-size: 13px;
+   margin-left: 127px;
+   margin-top: -14px;
+}
+.get{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 16px;
+   margin-top: 45px;
+   margin-left: -11px;
+}
+.s1{
+   height: 25px;
+   width: 33px;
+   background-color: peru;
+   border-radius: 2px;
+   padding-top: 10px;
+   margin-left: 600px;
+   margin-top: 30px;
+}
+.s1 :hover{
+   color: green;
+}
+.s2{
+   height: 25px;
+   width: 33px;
+   background-color: peru;
+   border-radius: 2px;
+   padding-top: 10px;
+   margin-left: 665px;
+   margin-top: -35px;
+}
+.s3{
+   height: 25px;
+   width: 33px;
+   background-color: peru;
+   border-radius: 2px;
+   padding-top: 10px;
+   margin-left: 735px;
+   margin-top: -35px;
+}
+
+.s4{
+   height: 25px;
+   width: 33px;
+   background-color: peru;
+   border-radius: 2px;
+   padding-top: 10px;
+   margin-left: 800px;
+   margin-top: -35px;
+}
+.hr1{
+   width: 1250px;
+   height: -2px;
+   opacity: 0.5;
+}
+.end1{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin-left: -750px;
+   margin-top: 20px;
+}
+.end2{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin-left: -450px;
+   margin-top: -15px;
+   
+}
+.end3{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin-top: -15px;
+   margin-left: -50px;
+   
+}
+.end4{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin-left: 270px;
+   margin-top: -15px;
+ 
+}
+.end5{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin-left:570px ;
+   margin-top:-17px;
+}
+.end6{
+   color: peru;
+   font-family: sans-serif;
+   font-size: 14px;
+   margin-left:870px ;
+   margin-top:-17px;
+}
+
+.end8 {
+   color: peru;
+   font-family: sans-serif;
+   font-size: 16px;
+   
+margin-top: 55px; 
+
+}
+.found{
+   height: 50px;
+   width: 150px;
+   background-color:rgba(0, 0, 0, 0.76);
+   margin-top: 90px;
+   margin-left: 1200px; 
+   position: fixed;
+   border-radius: 4px;
+   z-index: 1000;
+  
+ }
+ .found1{
+    font-family: sans-serif;
+    color:white;
+    font-size: 13px;
+  margin-top: 13px;
+  margin-left: 5px;
+ }
+ .found a:hover{
+    color: peru;
+ }
