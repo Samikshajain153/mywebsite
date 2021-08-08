@@ -294,7 +294,7 @@ margin-top: -29px;
 
 .box1{
     margin-left: -10px;
-        width: 100%;
+        width: 1540px;
         height: 100px;
         background-color: blanchedalmond;
        
@@ -355,6 +355,7 @@ line-height: 30px;
     position: absolute;
     margin-top: 1050px;
     margin-left: -10px;
+
 }
 .lastbox{
     height: 400px;
